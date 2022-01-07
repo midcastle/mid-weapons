@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<WeaponShopItemArray>
+	<weaponShopItems>
+		<Item>
+			<lockHash>CU_WEP_WEAPON</lockHash>
+			<nameHash>WEAPON_WEAPON</nameHash>
+			<cost value ="14500"/>
+			<ammoCost value="100"/>
+			<textLabel>WT_WEAPON</textLabel>
+			<weaponDesc>WTD_WEAPON</weaponDesc>
+			<weaponTT>WTT_WEAPON</weaponTT>
+			<weaponUppercase>WTU_WEAPON</weaponUppercase>
+			<id value = "32"/>
+			<weaponComponents />
+		</Item>
+	</weaponShopItems>
+</WeaponShopItemArray>	
